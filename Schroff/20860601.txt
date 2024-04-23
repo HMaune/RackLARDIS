@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-15092021-055714";"";
+"REFERENCE";"20860601";"";
+"TraceParts.PartTitle";"19 complete chassis from aluminium withplain top cover and base plate";"";
+"TraceParts.InstanceId";"90-15092021-055714F1ETT2SKDBXIWN0Z4X1MY44Q4";"";
+"DESIGN";"Multipac PRO 19'' 1U 220D Top & Bottom plain";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"nVent SCHROFF";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NVENT_SCHROFF:90-15092021-055714";"";

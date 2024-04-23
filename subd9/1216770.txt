@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08022024-083900";"";
+"REFERENCE";"61800924823";"";
+"rs_stock_number";"1216770";"";
+"TraceParts.PartTitle";"9 way male D-sub solder bucket Connector";"";
+"url";"https://uk.rs-online.com/web/p/d-sub-connectors/1216770//?cm_mmc=aff-_-uk-_-traceparts-_-1216770";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"DESIGN";"9 way male D-sub solder bucket Connector";"";
+"TraceParts.InstanceId";"90-08022024-0839002N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
